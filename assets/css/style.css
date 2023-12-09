@@ -266,7 +266,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: linear-gradient(to bottom, #ffffff, #8b0046);
+  background: linear-gradient(to bottom, #ffffff, #003cff);
   background-size: cover;
   position: relative;
 }
