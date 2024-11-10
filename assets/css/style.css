@@ -266,7 +266,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: linear-gradient(to bottom, #ffffff, #0099ff);
+  background: linear-gradient(to bottom, #ffffff, #0099ff), url('https://neethishkishore.github.io/assets/img/others/profile.png');
   background-size: cover;
   position: relative;
 }
